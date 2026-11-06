@@ -176,7 +176,7 @@ developed during the analysis, such as:
 Add your actual dashboard screenshot to the `Screenshots` folder and
 update the image path below.
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+![Power BI Dashboard](Dashboard/page1.png)
 
 **Power BI file:** `PowerBI/Sales_Dashboard.pbix`
 
