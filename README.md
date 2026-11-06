@@ -176,7 +176,14 @@ developed during the analysis, such as:
 Add your actual dashboard screenshot to the `Screenshots` folder and
 update the image path below.
 
-![Power BI Dashboard](Dashboard/page1.png)
+### 📊 Page 1 – Sales Overview
+![Sales Overview](Dashboard/page#1.png)
+
+### 📦 Page 2 – Product Performance
+![Product Performance](Dashboard/page2.png)
+
+### 👥 Page 3 – Customer Analysis
+![Customer Analysis](Dashboard/page3.png)
 
 **Power BI file:** `PowerBI/Sales_Dashboard.pbix`
 
