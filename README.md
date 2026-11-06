@@ -173,17 +173,15 @@ developed during the analysis, such as:
 -   Customer purchasing patterns
 -   Country and store performance
 
-Add your actual dashboard screenshot to the `Screenshots` folder and
-update the image path below.
 
 ### 📊 Page 1 – Sales Overview
-![Sales Overview](Dashboard/page#1.png)
+![Sales Overview](Dashboard/page%201.png)
 
 ### 📦 Page 2 – Product Performance
-![Product Performance](Dashboard/page2.png)
+![Product Performance](Dashboard/page%202.png)
 
 ### 👥 Page 3 – Customer Analysis
-![Customer Analysis](Dashboard/page3.png)
+![Customer Analysis](Dashboard/page%203.png)
 
 **Power BI file:** `PowerBI/Sales_Dashboard.pbix`
 
